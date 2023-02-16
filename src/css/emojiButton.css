@@ -1,0 +1,10 @@
+.button-emoji {
+  border: none;
+  outline: none;
+  background: transparent;
+  color: #fff;
+}
+
+.button-emoji:hover {
+  transform: scale(1.2);
+}

@@ -1,0 +1,15 @@
+.emoji-picker {
+  border: none;
+  outline: none;
+  background: transparent;
+  color: #fff;
+}
+
+.container-emoji-picker {
+  padding: 10px;
+  background: rgba(4, 131, 153, 0.5);
+  border-radius: 10px;
+  position: absolute;
+  top: -110px;
+  z-index: 1;
+}
